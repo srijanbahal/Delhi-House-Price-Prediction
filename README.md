@@ -1,5 +1,5 @@
 # **Delhi House Price Prediction** 
-This is my **Machine Learning project** for predicting house prices in **Delhi**, trained on real estate data from **Magic Bricks (Kaggle)**. I explored multiple regression models to find the best one for price prediction, with **XGBoost achieving the highest accuracy**.  
+This is my **Machine Learning project** for predicting house prices in **Delhi**, trained on real estate data from **Magic Bricks (Kaggle)**. I explored multiple regression models and Boosting Models to find the best one for price prediction, with **XGBoost achieving the highest accuracy**.  
 
 ## **🔹 Features**  
 - **Dataset**: Delhi housing data from Kaggle (Magic Bricks).  
